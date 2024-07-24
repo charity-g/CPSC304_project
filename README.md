@@ -1,6 +1,6 @@
 # For developers
 
-Run to run app in developer mode via local server. This requires you to install yarn and vite.
+Run the following line in terminal to host app in developer mode via local server. This requires you to install yarn and vite.
 
 `yarn dev`
 
